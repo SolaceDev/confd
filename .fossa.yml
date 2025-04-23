@@ -2,7 +2,7 @@ version: 3
 
 project:
   id: github.com/SolaceDev/confd
-  name: "Confd"
+  name: "Solace Confd"
 
   labels:
     - EBP-Container

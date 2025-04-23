@@ -1,6 +1,8 @@
 name: FOSSA Scan
 on:
-  pull_request:
+  push:
+    branches:
+      - fossa-scan
 
 permissions:
   repository-projects: read
