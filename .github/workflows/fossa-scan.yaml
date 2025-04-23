@@ -23,4 +23,4 @@ jobs:
         run: |
           curl -H 'Cache-Control: no-cache' https://raw.githubusercontent.com/fossas/fossa-cli/master/install-latest.sh | bash ;
           export FOSSA_API_KEY=${{ secrets.FOSSA_API_KEY }};
-          fossa analyze --without-default-filters --debug --revision 1.0 --branch fossa-test --unpack-archives
+          fossa analyze --debug --branch fossa-scan --unpack-archives

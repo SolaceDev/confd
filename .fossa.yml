@@ -1,1 +1,10 @@
 version: 3
+
+project:
+  id: github.com/SolaceDev/confd
+  name: "Confd"
+
+  labels:
+    - EBP-Container
+  teams:
+    - EBP-Platform
