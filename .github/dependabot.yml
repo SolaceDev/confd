@@ -12,6 +12,5 @@ updates:
     schedule:
       interval: "weekly"
       day: wednesday
-    # Add Core Platform Team as reviewers
-    team-reviewers:
-      - "SolaceDev/core-platform-team"
+    reviewers:
+      - "sarah-oloumi"
