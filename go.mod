@@ -4,7 +4,7 @@ go 1.25.3
 
 require (
 	github.com/BurntSushi/toml v1.5.0
-	github.com/aws/aws-sdk-go v1.55.7
+	github.com/aws/aws-sdk-go v1.55.8
 	github.com/fsnotify/fsnotify v1.9.0
 	github.com/garyburd/redigo v1.6.4
 	github.com/hashicorp/consul/api v1.33.0
