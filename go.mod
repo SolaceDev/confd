@@ -1,13 +1,13 @@
 module github.com/kelseyhightower/confd
 
-go 1.25.7
+go 1.25.8
 
 require (
 	github.com/BurntSushi/toml v1.6.0
 	github.com/aws/aws-sdk-go v1.55.7
 	github.com/fsnotify/fsnotify v1.9.0
 	github.com/garyburd/redigo v1.6.4
-	github.com/hashicorp/consul/api v1.33.4
+	github.com/hashicorp/consul/api v1.33.7
 	github.com/hashicorp/vault/api v1.23.0
 	github.com/kelseyhightower/memkv v0.1.1
 	github.com/samuel/go-zookeeper v0.0.0-20201211165307-7117e9ea2414
@@ -51,7 +51,7 @@ require (
 	go.etcd.io/etcd/client/pkg/v3 v3.6.9 // indirect
 	go.uber.org/multierr v1.11.0 // indirect
 	go.uber.org/zap v1.27.0 // indirect
-	golang.org/x/exp v0.0.0-20250808145144-a408d31f581a // indirect
+	golang.org/x/exp v0.0.0-20260218203240-3dfff04db8fa // indirect
 	golang.org/x/net v0.51.0 // indirect
 	golang.org/x/sys v0.41.0 // indirect
 	golang.org/x/text v0.34.0 // indirect
