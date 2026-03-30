@@ -93,8 +93,8 @@ github.com/golang/protobuf/proto
 # github.com/grpc-ecosystem/grpc-gateway/v2 v2.26.3
 ## explicit; go 1.23.0
 github.com/grpc-ecosystem/grpc-gateway/v2/protoc-gen-openapiv2/options
-# github.com/hashicorp/consul/api v1.33.4
-## explicit; go 1.25.7
+# github.com/hashicorp/consul/api v1.33.7
+## explicit; go 1.25.8
 github.com/hashicorp/consul/api
 # github.com/hashicorp/errwrap v1.1.0
 ## explicit
@@ -214,8 +214,8 @@ go.uber.org/zap/internal/pool
 go.uber.org/zap/internal/stacktrace
 go.uber.org/zap/zapcore
 go.uber.org/zap/zapgrpc
-# golang.org/x/exp v0.0.0-20250808145144-a408d31f581a
-## explicit; go 1.23.0
+# golang.org/x/exp v0.0.0-20260218203240-3dfff04db8fa
+## explicit; go 1.25.0
 golang.org/x/exp/slices
 # golang.org/x/net v0.51.0
 ## explicit; go 1.25.0
