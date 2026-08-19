@@ -11,7 +11,7 @@ require (
 	github.com/hashicorp/vault/api v1.23.0
 	github.com/kelseyhightower/memkv v0.1.1
 	github.com/samuel/go-zookeeper v0.0.0-20201211165307-7117e9ea2414
-	github.com/sirupsen/logrus v1.9.4
+	github.com/sirupsen/logrus v1.10.0
 	go.etcd.io/etcd/client/v3 v3.7.1
 	gopkg.in/yaml.v2 v2.4.0
 )
